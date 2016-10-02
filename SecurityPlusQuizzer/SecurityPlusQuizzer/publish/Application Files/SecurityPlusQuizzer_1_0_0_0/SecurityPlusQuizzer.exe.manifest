@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SecurityPlusQuizzer.exe" version="1.0.0.0" publicKeyToken="b1530407103dec08" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="shield_yellow.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SecurityPlusQuizzer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SecurityPlusQuizzer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SecurityPlusQuizzer.exe" size="252416">
+      <assemblyIdentity name="SecurityPlusQuizzer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>m/UvHTxx2rE6Fxy7ky6WxJSvngFmZywYPsfVkn/9+OU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SecurityPlusQuizzer.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="shield_yellow.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cC9jdIdmP1/LaLlJcFUf9HDSZ7VljBjDzzP8NXQW1Y4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JavaDeveloper\Java Developer" issuerKeyHash="3eca1717f972d445fe8d6d1f83a2e7b27e247d57" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1rQlLTNhYIVupuD6xGjfBrcUytx3Gz5DTgrjUbR6AbI=</DigestValue></Reference></SignedInfo><SignatureValue>FNx7UeoBvUjvpXeeAlM2qZs6OsIkiS7BlLMQW/hzgMTMRq/zI6iGg+HsRHNHU2kRlewNkC7lhnVms/4XuORXRcb1wN2KGpLTbwXcDtd7hxz9gi+98ulyDPX+TcxQtoUmcPOwG8Z8YSjcFFpp0LOIxb+q5LgB99r+iBT/RQFThFs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>8AM5LwVp+Of1AfqhpZqoII4cNmiX/joDYeonZUQBF96PImf7SwX6IhsqH5t5iG55sn1Ft40cPGHPAoFfbYRxEUzLCyhFhnKYzumlxMIG1y3JHuXNzFQ/z2cMykUkp4J3Ek+8mNDSE6eiCmX3RnMZZ3JsnzmbxNy+R6P2ctcIrtM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b2017ab451e30a4e433e1b77dcca14b706df68c4fae0a66e856061332d25b4d6" Description="" Url=""><as:assemblyIdentity name="SecurityPlusQuizzer.exe" version="1.0.0.0" publicKeyToken="b1530407103dec08" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JavaDeveloper\Java Developer</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>rvX9NqzqCdu1wr9sZ68Kr+qgdTeNDHbdewLuQOtghMI=</DigestValue></Reference></SignedInfo><SignatureValue>2wzBL8XNVALazI9DKjTHf1q3y+hrgIgoyybk0qfnT9Doognxbja72uH0au4ycjM2C7Z2OiB6h73esHHTYLQvFK5UiIAws526lszixJXKPiJWOhnFh42lIOaP7BAZ7ilowCFD07FxdI5b8shrPOiDJCc5Ri5mnzTdKf/WdqDqNdU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>8AM5LwVp+Of1AfqhpZqoII4cNmiX/joDYeonZUQBF96PImf7SwX6IhsqH5t5iG55sn1Ft40cPGHPAoFfbYRxEUzLCyhFhnKYzumlxMIG1y3JHuXNzFQ/z2cMykUkp4J3Ek+8mNDSE6eiCmX3RnMZZ3JsnzmbxNy+R6P2ctcIrtM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICCTCCAXKgAwIBAgIQHAo3U+/XFa1Pm700bKBqTTANBgkqhkiG9w0BAQsFADBDMUEwPwYDVQQDHjgASgBhAHYAYQBEAGUAdgBlAGwAbwBwAGUAcgBcAEoAYQB2AGEAIABEAGUAdgBlAGwAbwBwAGUAcjAeFw0xNjAzMTgwMDEyNTRaFw0xNzAzMTgwNjEyNTRaMEMxQTA/BgNVBAMeOABKAGEAdgBhAEQAZQB2AGUAbABvAHAAZQByAFwASgBhAHYAYQAgAEQAZQB2AGUAbABvAHAAZQByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDwAzkvBWn45/UB+qGlmqggjhw2aJf+OgNh6idlRAEX3o8iZ/tLBfoiGyofm3mIbnmyfUW3jRw8Yc8CgV9thHERTMsLKEWGcpjO6aXEwgbXLcke5c3MVD/PZwzKRSSngncST7yY0NITp6IKZfdGcxlncmyfOZvE3L5Ho/Zy1wiu0wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFcFQpQqpHXHYtbDcPj6crp/4ZdbpQ5phthkuwkg02GO9rXtv3aZuO6PBhI9oLPVztn9xE4uUnGqQGWm1iiMfRVmi0qL3WVOwUWDkIqgcwbe3CqlwVkpIcn4yu4Zbj8mAXOwIqoA6sJ1EjOk2DwblE470K93/fZ+ohPGo099DZpG</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

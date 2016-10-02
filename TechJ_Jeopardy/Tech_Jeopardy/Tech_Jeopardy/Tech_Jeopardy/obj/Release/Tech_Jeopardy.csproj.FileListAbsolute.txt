@@ -1,0 +1,13 @@
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Release\Tech_Jeopardy.exe.config
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Release\Tech_Jeopardy.exe
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Release\Tech_Jeopardy.pdb
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.csprojResolveAssemblyReference.cache
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.Form1.resources
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.Properties.Resources.resources
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.csproj.GenerateResource.Cache
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.exe
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.pdb
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Release\Tech_Jeopardy.exe.manifest
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Release\Tech_Jeopardy.application
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.exe.manifest
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Release\Tech_Jeopardy.application

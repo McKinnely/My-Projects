@@ -1,0 +1,47 @@
+c:\users\java developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.config
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.pdb
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csprojResolveAssemblyReference.cache
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Form1.resources
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Properties.Resources.resources
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csproj.GenerateResource.Cache
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe
+C:\Users\Java Developer\documents\visual studio 2012\Projects\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.pdb
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.config
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.pdb
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.pdb
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csprojResolveAssemblyReference.cache
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Form1.resources
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Properties.Resources.resources
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csproj.GenerateResource.Cache
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.config
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.pdb
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.pdb
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csprojResolveAssemblyReference.cache
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Form1.resources
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Properties.Resources.resources
+E:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csproj.GenerateResource.Cache
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.manifest
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.application
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe.manifest
+F:\Portfolio\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.application
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.config
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.pdb
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.manifest
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.application
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.pdb
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csprojResolveAssemblyReference.cache
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Form1.resources
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.Properties.Resources.resources
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.csproj.GenerateResource.Cache
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe.manifest
+E:\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.application
+E:\Portfolio\NewBlogUpload\TechJ_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\bin\Debug\Tech_Jeopardy.exe.config
+E:\Portfolio\NewBlogUpload\TechJ_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.exe
+E:\Portfolio\NewBlogUpload\TechJ_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\Tech_Jeopardy\obj\Debug\Tech_Jeopardy.pdb
