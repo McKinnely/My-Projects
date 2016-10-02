@@ -40,3 +40,16 @@ F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.applica
 E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
 E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
 E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.manifest
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.application
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.pdb
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Form1.resources
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Properties.Resources.resources
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csproj.GenerateResource.Cache
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe.manifest
+C:\Users\Family\Documents\GitHubVS_Repos\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.application
