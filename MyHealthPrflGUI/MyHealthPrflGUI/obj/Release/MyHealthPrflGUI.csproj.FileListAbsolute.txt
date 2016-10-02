@@ -1,0 +1,42 @@
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.pdb
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Form1.resources
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Properties.Resources.resources
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csproj.GenerateResource.Cache
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.manifest
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.application
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe.manifest
+C:\Users\McKinnely Bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.application
+E:\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb
+E:\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.manifest
+E:\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.application
+E:\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe
+E:\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.pdb
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Form1.resources
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Properties.Resources.resources
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csproj.GenerateResource.Cache
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe.manifest
+E:\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.application
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.manifest
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.application
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.pdb
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Form1.resources
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.Properties.Resources.resources
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.csproj.GenerateResource.Cache
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe.manifest
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.application
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Release\MyHealthPrflGUI.exe.config
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.exe
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Release\MyHealthPrflGUI.pdb

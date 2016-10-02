@@ -1,0 +1,38 @@
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.config
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.pdb
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Form1.resources
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Properties.Resources.resources
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csproj.GenerateResource.Cache
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe
+c:\users\mckinnely bentley\documents\visual studio 2012\Projects\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.pdb
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.config
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.pdb
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.manifest
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.application
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.pdb
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Form1.resources
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Properties.Resources.resources
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csproj.GenerateResource.Cache
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe.manifest
+F:\Portfolio\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.application
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.config
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.pdb
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.manifest
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.application
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.pdb
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csprojResolveAssemblyReference.cache
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Form1.resources
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.Properties.Resources.resources
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.csproj.GenerateResource.Cache
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe.manifest
+E:\Portfolio\NewBlogUpload\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.application
+E:\Portfolio\NewBlogUpload\HealthProfileFixed\MyHealthPrflGUI\MyHealthPrflGUI\bin\Debug\MyHealthPrflGUI.exe.config
+E:\Portfolio\NewBlogUpload\HealthProfileFixed\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.exe
+E:\Portfolio\NewBlogUpload\HealthProfileFixed\MyHealthPrflGUI\MyHealthPrflGUI\obj\Debug\MyHealthPrflGUI.pdb
