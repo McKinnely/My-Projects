@@ -1,11 +1,11 @@
 /**************Java Challenge************************
 *                                                   *                                             
-*   Software Engineer: McKinnely Bentley 	        *
+*   Software Engineer: McKinnely Bentley 	    *
 *   Description: Just a personal challenge.         *
 *   Inputs: the input are hard coded in.            *
 *   Outputs: Outputs data based on specs given      *
-*   in the challenge doc.                	        *
-*  	     	      	                                *
+*   in the challenge doc.                	    *
+*  	     	      	                            *
 *****************************************************/
 
 import javax.swing.JOptionPane;
