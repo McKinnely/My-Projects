@@ -1,4 +1,4 @@
-﻿/**************Health Profile App********************
+/**************Health Profile App********************
 *                                                   *
 *   Software Engineer: McKinnely Bentley 	        *
 *   Description: Analyzes your health profile       *
