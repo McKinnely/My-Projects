@@ -30,7 +30,7 @@ boolean myBool = true;
 
   
   
-//usrNm  = JOptionPane.showInputDialog("Please enter your name: ");
+//usrNm  = JOptionPane.showInputDialog ("Please enter your name: ");
 do
 {
 try 
