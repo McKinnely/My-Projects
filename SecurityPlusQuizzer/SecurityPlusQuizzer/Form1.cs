@@ -1,6 +1,6 @@
 ﻿/**************SecurityPlusQuizzer*******************
 *                                                   *                                             
-*   Software Engineer: McKinnely Bentley 	     *
+*   Software Engineer: McKinnely Bentley 	    *
 *   Description: Quiz that is designed to help      *
 *   CompTia Security Plus students study ports.     *
 *   Inputs: Port number that relates to the port    *
@@ -8,7 +8,7 @@
 *   Outputs: Message box will show correct for      *
 *   every correct answer and a label will shows	    *
 *   a total score percentage at the end.            *
-*  	     	      	                             *
+*  	     	      	                            *
 *****************************************************/
 
 using System;
