@@ -1,13 +1,13 @@
 ﻿/**************Health Profile App********************
-*                                               *
-*   Software Engineer: McKinnely Bentley 	        *
-*   Description: Analyzes your health profile       *
-*   and tells the user if he/she is in their        *
-    ideal weight range.                             *
-*   Inputs: Name, gender and date information.      *
-*   Outputs: Analyzed data that shows the user      *
-*   health information.	                            *
-*                                                   *
+*                                               
+*   Software Engineer: McKinnely Bentley 	        
+*   Description: Analyzes your health profile       
+*   and tells the user if he/she is in their        
+    ideal weight range.                             
+*   Inputs: Name, gender and date information.      
+*   Outputs: Analyzed data that shows the user      
+*   health information.	                            
+*                                                   
 *****************************************************/
 using System;
 using System.Collections.Generic;
