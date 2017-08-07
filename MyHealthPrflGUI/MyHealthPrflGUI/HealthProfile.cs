@@ -1,5 +1,5 @@
 ﻿/**************Health Profile App********************
-*                                                   *
+*                                               *
 *   Software Engineer: McKinnely Bentley 	        *
 *   Description: Analyzes your health profile       *
 *   and tells the user if he/she is in their        *
