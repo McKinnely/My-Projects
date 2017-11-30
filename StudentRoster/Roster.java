@@ -1,7 +1,7 @@
 /**************Java Challenge************************
 *                                                   *                                             
 *   Software Engineer: McKinnely Bentley 	    *
-*   Description: WGU Project              .         *
+*   Description: WGU Project                        *
 *   Inputs: the input are hard coded in.            *
 *   Outputs: Outputs data based on specs given      *
 *   in the challenge doc.                	    *
