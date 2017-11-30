@@ -1,7 +1,7 @@
 /**************Java Challenge************************
 *                                                   *                                             
 *   Software Engineer: McKinnely Bentley 	    *
-*   Description: Just a personal challenge.         *
+*   Description: WGU Project              .         *
 *   Inputs: the input are hard coded in.            *
 *   Outputs: Outputs data based on specs given      *
 *   in the challenge doc.                	    *
@@ -19,7 +19,7 @@ public class Roster
 {
      static  int arrayPosition = 0 ;
      int gradeArray[] = {2, 3, 5};
-     static private  String [] studentsArray = {"1,John,Smith,John1989@gmail.com,20,88,79,59", "2,Suzan,Erickson,Erickson_1990@gmailcom,19,91,72,85", "3,Jack,Napoli,The_lawyer99yahoo.com,28,85,84,87", "4,Erin,Black,Erin.black@comcast.net,22,91,98,82", "5,Mike,Edwards,mkedwards@wgu.edu,25,85,90,95"};
+     static private  String [] studentsArray = {"1,John,Smith,John1989@gmail.com,20,88,79,59", "2,Suzan,Erickson,Erickson_1990@gmailcom,19,91,72,85", "3,Jack,Napoli,The_lawyer99yahoo.com,28,85,84,87", "4,Erin,Black,Erin.black@comcast.net,22,91,98,82", "5,McKinnely,Bentley,mbentl3@wgu.edu,25,85,90,95"};
      private static ArrayList <Student>stdntObjctHldrAL = new ArrayList<Student>();
      static String student;
      static String student1;
